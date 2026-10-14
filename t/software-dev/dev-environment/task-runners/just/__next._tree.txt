@@ -1,0 +1,5 @@
+:HL["/tech-trail-mock/_next/static/chunks/0ud1p5v2e-pp_.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"path","t":"c","k":"software-dev/dev-environment/task-runners/just","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"t","h":64,"c":"$Q2"}]]
+0:{"b":"dHFrihjeg1ett99zCZ9so","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
